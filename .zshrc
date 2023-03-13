@@ -104,3 +104,4 @@ source $ZSH/oh-my-zsh.sh
 # alias ohmyzsh="mate ~/.oh-my-zsh"
 source /opt/ros/noetic/setup.zsh
 export TURTLEBOT3_MODEL=waffle
+alias hi_seoyeon='echo "Hello"'
